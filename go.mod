@@ -1,4 +1,4 @@
-module protos
+module github.com/mkaascs/auth_proto
 
 go 1.23.2
 
